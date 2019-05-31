@@ -11,6 +11,8 @@
     <modules>
         <module>service</module>
     </modules>
+    <dependencies>
 
+    </dependencies>
 
 </project>
